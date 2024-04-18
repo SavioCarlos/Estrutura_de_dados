@@ -1,4 +1,4 @@
-# Estrutura_de_dados
+# Estrutura de dados
 
 1. **Implementação do Labirinto:**
     - Foi usando uma matriz, onde cada célula pode ser um caminho livre (0), um obstáculo (1), o ponto de partida (S) ou o destino (D).
